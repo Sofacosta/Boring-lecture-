@@ -1,0 +1,13 @@
+h2.intro {
+  color: red;
+}
+
+p.intro{
+  color: blue;
+}
+
+img.intro{
+  border: 2px solid red;
+  border-radius: 15px;
+  width: 300px;
+}
