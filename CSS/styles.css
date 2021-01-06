@@ -1,12 +1,8 @@
-h2.intro {
+.intro {
   color: red;
 }
 
-p.intro{
-  color: blue;
-}
-
-img.intro{
+img {
   border: 2px solid red;
   border-radius: 15px;
   width: 300px;
